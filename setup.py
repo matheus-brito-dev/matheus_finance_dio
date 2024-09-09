@@ -7,7 +7,7 @@ with open("README.md", "r") as f:
 #     requirements = f.read().splitlines()
 
 setup(
-    name="finance",
+    name="matheus-finance-dio",
     version="0.0.1",
     author="Matheus Brito",
     author_email="mabrol23@gmail.com",
